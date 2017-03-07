@@ -6,6 +6,7 @@
 *.user
 *.userosscache
 *.sln.docstates
+*.vcxproj
 
 # User-specific files (MonoDevelop/Xamarin Studio)
 *.userprefs
@@ -259,3 +260,9 @@ paket-files/
 # Python Tools for Visual Studio (PTVS)
 __pycache__/
 *.pyc
+/Bucky-Bald-Cream/Bucky-Bald-Cream.vcxproj.filters
+/Bucky-Bald-Cream/Bucky-Bald-Cream.vcxproj
+*.filters
+*.vcxproj
+/Bucky-Bald-Cream.sln
+*.sln
