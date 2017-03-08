@@ -148,12 +148,14 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="file.cc" />
     <ClCompile Include="main.cc" />
     <ClCompile Include="memory.cc" />
     <ClCompile Include="process.cc" />
     <ClCompile Include="string.cc" />
   </ItemGroup>
   <ItemGroup>
+    <ClInclude Include="file.h" />
     <ClInclude Include="memory.h" />
     <ClInclude Include="ntdll.h" />
     <ClInclude Include="process.h" />
